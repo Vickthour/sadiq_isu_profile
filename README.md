@@ -1,2 +1,2 @@
 # sadiq_isu_profile
-Sir, Sadiq Isu personal website.
+Sir, Sadiq Isu's personal website.
